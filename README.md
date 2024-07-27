@@ -8,7 +8,7 @@
   <tr>
       <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-react-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-4-pack-icons-282599.png?f=webp&w=256" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-angular-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226070.png?f=webp&w=256" width="200"></td>
-      <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-wkuJvQ9Wxmh7aK3jS9b7naNGy1kYee_agQ&s" width="200"></td>
+      <td><img src="https://icon.icepanel.io/Technology/svg/Qwik.svg" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png?raw=true" width="200"></td>
       <td><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mongodb_compass_macos_bigsur_icon_189933.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?raw=true" width="200"></td>
