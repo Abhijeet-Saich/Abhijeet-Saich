@@ -16,10 +16,26 @@
       <td><img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="200"></td>
       <td><img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" width="200"></td>
       <td><img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" width="200"></td>
+  </tr>
+  <tr>
       <td><img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="200"></td>
       <td><img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width="200"></td>
       <td><img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" width="200"></td>
-      <td><img src="" width="200"></td>
+      <td><img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" width="200"></td>
+  </tr>
+  <tr>
+      <td><img src="https://icon.icepanel.io/Technology/svg/Docker.svg" width="200"></td>
+      <td><img src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" width="200"></td>
+      <td><img src="https://icon.icepanel.io/Technology/svg/Digital-Ocean.svg" width="200"></td>
+      <td><img src="https://icon.icepanel.io/Technology/svg/Git.svg" width="200"></td>
+      <td><img src="https://icon.icepanel.io/Technology/svg/Heroku.svg" width="200"></td>
+  </tr>
+  <tr>
+      <td><img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" width="200"></td>
+      <td><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width="200"></td>
+      <td><img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="200"></td>
+      <td><img src="https://icon.icepanel.io/Technology/svg/C.svg" width="200"></td>
+      <td><img src="https://icon.icepanel.io/Technology/png-shadow-512/Bash.png" width="200"></td>
   </tr>
 
 </table>
