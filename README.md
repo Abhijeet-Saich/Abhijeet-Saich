@@ -17,7 +17,7 @@
 
 <br>
 
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
+<h2 font-weight="bold">Skill Set</h2>
 <table>
   <tr>
       <td><img src="https://icon.icepanel.io/Technology/svg/React.svg" width="75"></td>
