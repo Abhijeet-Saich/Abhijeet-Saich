@@ -1,13 +1,19 @@
 <br>
 
-i like to design
-But,
-I_Love_To_Code 
+<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
+<h2 align="left" font-weight="bold">About me</h2>  
+<br><br>
 
-and 
-
-learning-is-fun
-its a delight to see moring sun...
+- I’m a coder who loves to code and learn new techs
+- In pursuit to develope "The APP" one day....
+- Bugs don't scare me anymore!!
+- Successfull fetches replinish my energy
+- Okay a coding joke :-
+- Why most nerdy developers prefer coding all night to partying ?
+- ..
+- ..
+- ..
+- Coz they love to avoid crashes!
 
 <br>
 
