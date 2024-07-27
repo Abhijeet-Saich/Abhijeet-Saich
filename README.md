@@ -1,6 +1,14 @@
 <br>
 
-- :I’m a developer who has passion for building clean web applications with intuitive functionality. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts.
+i like to design
+But,
+I_Love_To_Code 
+
+and 
+
+learning-is-fun
+its a delight to see moring sun...
+
 <br>
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
