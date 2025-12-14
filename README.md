@@ -4,16 +4,7 @@
 <h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
 
-- I’m a coder who loves to code and learn new techs
-- In pursuit to develope "The APP" one day....
-- Bugs don't scare me anymore!!
-- Successfull fetches replinish my energy
-- Okay a coding joke :-
-- Why most nerdy developers prefer coding all night to partying ?
-- ..
-- ..
-- ..
-- Coz they love to avoid crashes!
+./code_less code-often
 
 <br>
 
