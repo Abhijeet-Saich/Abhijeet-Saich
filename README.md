@@ -28,7 +28,7 @@
       <td><img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width="75"></td>
       <td><img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" width="75"></td>
       <td><img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" width="75"></td>
-      <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMNAO3jX7Wv7cpa6DDTAmFgJf953zIRd0vQ&s" width="75"></td>
+      <td><img src="https://p7.hiclipart.com/preview/627/181/173/apache-cassandra-nosql-distributed-database-apache-http-server-amazon-redshift.jpg" width="75"></td>
   </tr>
   <tr>
       <td><img src="https://icon.icepanel.io/Technology/svg/Docker.svg" width="75"></td>
