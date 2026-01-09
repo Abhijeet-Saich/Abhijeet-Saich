@@ -21,6 +21,7 @@
       <td><img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="75"></td>
       <td><img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" width="75"></td>
       <td><img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" width="75"></td>
+      <td><img src="https://images.seeklogo.com/logo-png/58/1/elysia-logo-png_seeklogo-580325.png" width="75"></td>
   </tr>
   <tr>
       <td><img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="75"></td>
