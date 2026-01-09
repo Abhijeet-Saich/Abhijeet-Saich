@@ -28,6 +28,7 @@
       <td><img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width="75"></td>
       <td><img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" width="75"></td>
       <td><img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" width="75"></td>
+      <td><img src="https://cassandra.apache.org/assets/img/logo-white-r.png" width="75"></td>
   </tr>
   <tr>
       <td><img src="https://icon.icepanel.io/Technology/svg/Docker.svg" width="75"></td>
