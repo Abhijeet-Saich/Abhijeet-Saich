@@ -4,7 +4,7 @@
 <h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
 
-./code_less code-often
+./code_less/code-often
 
 <br>
 
